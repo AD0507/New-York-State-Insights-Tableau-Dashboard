@@ -1,5 +1,5 @@
 # New York State Insights Dashboard using Tableau
-- This project was created as part of IST 737: Visual Analytics Dashboard using Tableau Class under Professor Raj Dewan.
+- This project was created as part of IST 737: Visual Analytics Dashboard using Tableau coursework under Professor Raj Dewan at Syracuse University.
 
 # Tableau Public Link:
 - I have published the dashboard on tableau public. The dashboard can be accessed using the link: https://public.tableau.com/app/profile/arunavadas005/viz/NewYorkStateInsightsDashboard/HomePage
