@@ -76,13 +76,14 @@ energy and crime control strategies, and forecast job market trends.
 identify areas for investment.
 - Residents and Potential Movers: To decide on living in New York State based on safety,
 healthcare costs, and employment prospects.
-
-### Dataset credit:
-- Dataset used from: https://data.ny.gov/
-- Icons used for navigation: Flaticon
 - Researchers and Analysts: To study trends in energy, healthcare, crime, and employment for
 academic and professional research.
 - Non-Governmental Organizations (NGOs): To advocate for initiatives related to renewable
 energy, public safety, and equitable job opportunities.
 - Educational Institutions: To use the data for academic purposes, such as teaching and policy
 simulations.
+
+
+### Dataset credit:
+- Dataset used from: https://data.ny.gov/
+- Icons used for navigation: Flaticon
