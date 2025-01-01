@@ -42,7 +42,7 @@ https://data.ny.gov/Energy-Environment/Energy-Prices-Dollars-per-Million-Btu-Beg
 - The datasets were taken from this links mentioned and cleaned as per the dashboard requirement. The datasets for which data cleaning steps were performed is added in this repository.
 
 
-## Dashboard Visualization Insights:
+## Dashboard Description:
 
 ### Solar Energy Incentives Dashboard:
 This dashboard showcases New York State's commitment to renewable energy through its solar energy incentive programs. It provides a detailed view of completed and pipeline solar electric
